@@ -1,4 +1,3 @@
-# DecodeLabs_project2
 #  Student GPA Calculator
 
 ##  Project Overview
