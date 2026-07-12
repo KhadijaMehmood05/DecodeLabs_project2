@@ -67,7 +67,7 @@ This project demonstrates the implementation of **Object-Oriented Programming (O
 
 ## Project Structure
 
-```text
+
 Student-GPA-Calculator/
 
 │── StudentGradeCalculatorGUI.java
@@ -76,7 +76,7 @@ Student-GPA-Calculator/
 │── README.md
 
 
----
+
 
 ##  Sample Report
 
