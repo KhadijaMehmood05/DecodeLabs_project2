@@ -1,5 +1,5 @@
 # DecodeLabs_project2
-# 🎓 Student GPA Calculator
+#  Student GPA Calculator
 
 ##  Project Overview
 
