@@ -1,13 +1,14 @@
-#  Student GPA Calculator
+# 🎓 Student GPA Calculator
 
-##  Project Overview
+## 📌 Project Overview
 
 The **Student GPA Calculator** is a Java Swing desktop application designed to calculate a student's academic performance quickly and accurately. Users can enter a student's ID, name, and marks for five predefined subjects. The application automatically calculates the total marks, percentage, GPA, overall grade, and pass/fail status while generating a well-organized report card.
 
 This project demonstrates the implementation of **Object-Oriented Programming (OOP)** concepts, Java GUI development, event handling, and data validation.
 
+---
 
-##  Features
+## ✨ Features
 
 * Professional Java Swing graphical user interface
 * Student ID and Student Name input
@@ -24,9 +25,9 @@ This project demonstrates the implementation of **Object-Oriented Programming (O
 * Exit button to close the application
 * Error handling for invalid input
 
+---
 
-
-##  Subjects
+## 📚 Subjects
 
 * Object Oriented Programming
 * Database Systems
@@ -34,9 +35,9 @@ This project demonstrates the implementation of **Object-Oriented Programming (O
 * Computer Networks
 * Information Security
 
+---
 
-
-##  Grading System
+## 🏆 Grading System
 
 |    Marks | Grade | Grade Point |
 | -------: | :---: | ----------: |
@@ -52,9 +53,9 @@ This project demonstrates the implementation of **Object-Oriented Programming (O
 
 **Passing Criteria:** Students scoring **50% or above** are considered **PASS**, while students scoring **below 50%** are considered **FAIL**.
 
+---
 
-
-##  Technologies Used
+## 🛠️ Technologies Used
 
 * Java
 * Java Swing
@@ -63,25 +64,24 @@ This project demonstrates the implementation of **Object-Oriented Programming (O
 * ArrayList
 * Event Handling
 
+---
 
+## 📂 Project Structure
 
-## Project Structure
-
-
+```text
 Student-GPA-Calculator/
 
 │── StudentGradeCalculatorGUI.java
 │── GradeCalculator.java
 │── Student.java
 │── README.md
+```
 
+---
 
+## 📋 Sample Report
 
-
-
-##  Sample Report
-
-
+```text
 ============================================
           STUDENT REPORT CARD
 ============================================
@@ -104,11 +104,25 @@ Percentage  : 83.00%
 GPA         : 3.50
 Grade       : B+
 Status      : PASS
+```
+
+---
+## ▶️ How to Run
+
+1. Download or open the project files in your preferred Java IDE, such as **Eclipse**, **IntelliJ IDEA**, **NetBeans**, or **VS Code**.
+2. Ensure all three Java files are placed in the same project or package:
+
+   * `StudentGradeCalculatorGUI.java`
+   * `GradeCalculator.java`
+   * `Student.java`
+3. Build or compile the project.
+4. Run the `StudentGradeCalculatorGUI` class.
+5. Enter the student's ID, name, and marks for all five subjects.
+6. Click **Generate Result** to calculate the total marks, percentage, GPA, overall grade, and pass/fail status.
+7. Use the **Clear** button to reset all fields or **Exit** to close the application.
 
 
-
-
-##  Learning Outcomes
+## 🎯 Learning Outcomes
 
 This project helped strengthen my understanding of:
 
@@ -121,9 +135,9 @@ This project helped strengthen my understanding of:
 * Method Design
 * Modular Programming
 
+---
 
-
-##  Future Enhancements
+## 🔮 Future Enhancements
 
 * Export report cards as PDF
 * Print report cards
@@ -132,9 +146,9 @@ This project helped strengthen my understanding of:
 * Calculate CGPA across multiple semesters
 * Improve the user interface with additional themes
 
+---
 
-
-##  Author
+## 👩‍💻 Author
 
 **Khadija Mehmood**
 
